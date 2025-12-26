@@ -1,23 +1,29 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║     ███████╗██╗  ██╗   ██╗███████╗███████╗    ██████╗  █████╗ ██████╗  ██████╗  ║
-║     ██╔════╝██║  ╚██╗ ██╔╝██╔════╝██╔════╝    ██╔══██╗██╔══██╗██╔══██╗██╔═══██╗ ║
-║     █████╗  ██║   ╚████╔╝ █████╗  ███████╗    ██║  ██║███████║██████╔╝██║   ██║ ║
-║     ██╔══╝  ██║    ╚██╔╝  ██╔══╝  ╚════██║    ██║  ██║██╔══██║██╔══██╗██║   ██║ ║
-║     ███████╗███████╗██║   ███████╗███████║    ██████╔╝██║  ██║██║  ██║╚██████╔╝ ║
-║     ╚══════╝╚══════╝╚═╝   ╚══════╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ║
-║                                                                               ║
-║                    > FULL-STACK DEVELOPER | MOBILE & WEB <                   ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+██                                                                         ██
+██   ███████ ██      ██    ██ ███████ ███████                            ██
+██   ██      ██       ██  ██  ██      ██                                 ██
+██   █████   ██        ████   █████   ███████                            ██
+██   ██      ██         ██    ██           ██                            ██
+██   ███████ ███████    ██    ███████ ███████                            ██
+██                                                                         ██
+██              ██████   █████  ██████   ██████  ██    ██ ██ ██████ ██   ██
+██              ██   ██ ██   ██ ██   ██ ██    ██ ██    ██ ██ ██     ██   ██
+██              ██   ██ ███████ ██████  ██    ██ ██    ██ ██ ██     ███████
+██              ██   ██ ██   ██ ██   ██ ██    ██ ██    ██ ██ ██     ██   ██
+██              ██████  ██   ██ ██   ██  ██████   ██████  ██ ██████ ██   ██
+██                                                                         ██
+██         [ FULL-STACK DEVELOPER • MOBILE ARCHITECT • OPEN SOURCE ]       ██
+██                                                                         ██
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ElyesD1&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/ElyesD1)
-[![GitHub Followers](https://img.shields.io/github/followers/ElyesD1?style=flat-square&color=blue&label=FOLLOWERS)](https://github.com/ElyesD1?tab=followers)
-[![Years on GitHub](https://img.shields.io/badge/SINCE-2022-cyan?style=flat-square)](https://github.com/ElyesD1)
+[![Profile Views](https://komarev.com/ghpvc/?username=ElyesD1&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ElyesD1)
+[![GitHub Followers](https://img.shields.io/github/followers/ElyesD1?style=for-the-badge&color=0891b2&labelColor=1c1917&label=FOLLOWERS)](https://github.com/ElyesD1?tab=followers)
+[![Years Badge](https://img.shields.io/badge/CODING_SINCE-2022-06b6d4?style=for-the-badge&labelColor=1c1917)](https://github.com/ElyesD1)
+[![Repos Badge](https://img.shields.io/badge/PUBLIC_REPOS-11-8b5cf6?style=for-the-badge&labelColor=1c1917)](https://github.com/ElyesD1?tab=repositories)
 
 </div>
 
@@ -88,9 +94,11 @@ const developer = {
 
 ### 🔷 **Featured Projects**
 
+> "Building digital experiences that matter, one commit at a time."
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🌐 [Portfolio Website](https://elyesdarouichportflio.vercel.app)
 **JavaScript • React**
@@ -100,10 +108,11 @@ const developer = {
 └─ Modern, responsive design
 └─ Deployed on Vercel
 ```
-[![Repo](https://img.shields.io/badge/REPO-Portfolio-blue?style=flat-square&logo=github)](https://github.com/ElyesD1/Portfolio)
+[![Repo](https://img.shields.io/badge/VIEW_CODE-Portfolio-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/Portfolio)
+[![Live](https://img.shields.io/badge/LIVE_DEMO-Vercel-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://elyesdarouichportflio.vercel.app)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 📱 Dialex Mobile App
 **Swift • iOS**
@@ -112,13 +121,13 @@ const developer = {
 └─ SwiftUI interface
 └─ Backend integration
 ```
-[![Repo](https://img.shields.io/badge/REPO-Dialex--Front--IOS-blue?style=flat-square&logo=github)](https://github.com/ElyesD1/Dialex-Front-IOS)
+[![Repo](https://img.shields.io/badge/VIEW_CODE-Dialex--Front--IOS-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/Dialex-Front-IOS)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🔧 Dialex Backend
 **TypeScript • Node.js**
@@ -127,10 +136,10 @@ const developer = {
 └─ Express/NestJS architecture
 └─ Database integration
 ```
-[![Repo](https://img.shields.io/badge/REPO-Dialex--Backed-blue?style=flat-square&logo=github)](https://github.com/ElyesD1/Dialex-Backed)
+[![Repo](https://img.shields.io/badge/VIEW_CODE-Dialex--Backend-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/Dialex-Backed)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 📦 SquadLink
 **TypeScript • Full-Stack**
@@ -139,13 +148,13 @@ const developer = {
 └─ Real-time features
 └─ Modern tech stack
 ```
-[![Repo](https://img.shields.io/badge/REPO-SquadLink-blue?style=flat-square&logo=github)](https://github.com/ElyesD1/SquadLink)
+[![Repo](https://img.shields.io/badge/VIEW_CODE-SquadLink-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/SquadLink)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🛒 Spareparts Waness
 **JavaScript • E-commerce**
@@ -154,10 +163,10 @@ const developer = {
 └─ Full shopping experience
 └─ Inventory management
 ```
-[![Repo](https://img.shields.io/badge/REPO-Spareparts--waness-blue?style=flat-square&logo=github)](https://github.com/ElyesD1/Spareparts-waness)
+[![Repo](https://img.shields.io/badge/VIEW_CODE-Spareparts--Waness-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/Spareparts-waness)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 📱 Project Management Tool
 **Flutter • Mobile**
@@ -166,7 +175,7 @@ const developer = {
 └─ Task & project tracking
 └─ Team collaboration features
 ```
-[![Repo](https://img.shields.io/badge/REPO-Project--Management-blue?style=flat-square&logo=github)](https://github.com/ElyesD1/Project-management-tool-mobile-front)
+[![Repo](https://img.shields.io/badge/VIEW_CODE-Project--Management-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/Project-management-tool-mobile-front)
 
 </td>
 </tr>
@@ -179,19 +188,31 @@ const developer = {
 <div align="center">
 
 ```bash
-╭────────────── SYSTEM DIAGNOSTICS ──────────────╮
-│                                                 │
-│  [████████████████████░░░░] 80% Productivity   │
-│  [███████████████░░░░░░░░] 70% Code Coverage   │
-│  [██████████████████████] 100% Commitment      │
-│                                                 │
-╰─────────────────────────────────────────────────╯
+╭───────────────────────── SYSTEM STATUS ─────────────────────────╮
+│                                                                  │
+│  ⚡ Productivity    [████████████████████░░] 90%                │
+│  🎯 Code Quality    [███████████████████░░░] 85%                │
+│  🔥 Commitment      [████████████████████░░] 95%                │
+│  📚 Learning Rate   [██████████████████████] 100%               │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
 ```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElyesD1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesD1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ElyesD1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ElyesD1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ElyesD1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ElyesD1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElyesD1&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElyesD1&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c9d1d9&dates=c9d1d9&sideNums=58a6ff&currStreakNum=58a6ff&sideLabels=c9d1d9)](https://git.io/streak-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ElyesD1&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=58a6ff">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElyesD1&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=58a6ff" alt="Contribution Graph"/>
+</picture>
 
 </div>
 
@@ -249,15 +270,16 @@ $ cat /dev/status
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║  > Interested in collaborating?                       ║
-║  > Have a project idea?                               ║
-║  > Looking to hire?                                   ║
-║                                                        ║
-║  → Let's connect and build something amazing! 🚀       ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│  💼  Open to Full-Time Opportunities                          │
+│  🚀  Available for Freelance Projects                         │
+│  🤝  Interested in Collaborations                             │
+│  📧  Quick to Respond                                         │
+│                                                                │
+│  → Let's build something exceptional together!                │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
 ```
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elyesdarouichportflio.vercel.app)
