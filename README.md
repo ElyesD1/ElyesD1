@@ -49,7 +49,7 @@ const developer = {
   learning: ["Advanced Swift", "System Design", "Cloud Architecture"],
   
   contact: {
-    portfolio: "https://elyesdarouichportflio.vercel.app",
+    portfolio: "https://elyesdarouichportfolio.vercel.app",
     github: "https://github.com/ElyesD1"
   }
 };
