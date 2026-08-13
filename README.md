@@ -15,7 +15,7 @@
 ██              ██   ██ ██   ██ ██   ██ ██    ██ ██    ██ ██ ██     ██   ██
 ██              ██████  ██   ██ ██   ██  ██████   ██████  ██ ██████ ██   ██
 ██                                                                         ██
-██         [ FULL-STACK DEVELOPER • MOBILE ARCHITECT • OPEN SOURCE ]       ██
+██          [ AI ENGINEER • AGENTS, RAG & LLM • PRIVATE-BY-DESIGN ]        ██
 ██                                                                         ██
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
@@ -23,7 +23,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ElyesD1&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ElyesD1)
 [![GitHub Followers](https://img.shields.io/github/followers/ElyesD1?style=for-the-badge&color=0891b2&labelColor=1c1917&label=FOLLOWERS)](https://github.com/ElyesD1?tab=followers)
 [![Years Badge](https://img.shields.io/badge/CODING_SINCE-2022-06b6d4?style=for-the-badge&labelColor=1c1917)](https://github.com/ElyesD1)
-[![Repos Badge](https://img.shields.io/badge/PUBLIC_REPOS-11-8b5cf6?style=for-the-badge&labelColor=1c1917)](https://github.com/ElyesD1?tab=repositories)
+[![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-22c55e?style=for-the-badge&labelColor=1c1917)](https://elyesdarouichportfolio.vercel.app)
 
 </div>
 
@@ -32,24 +32,31 @@
 ## `$ whoami`
 
 ```typescript
-const developer = {
+const engineer = {
   name: "Elyes Darouich",
-  role: "Full-Stack Developer",
-  location: "Tunisia 🇹🇳",
-  status: "Available for Opportunities",
-  
+  role: "AI Engineer — Agents, RAG & LLM",
+  company: "Talan",
+  location: "Tunis, Tunisia 🇹🇳",
+  status: "Available for freelance & full-time opportunities",
+
   expertise: {
-    mobile: ["iOS (Swift)", "Flutter", "React Native"],
-    frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
-    backend: ["Node.js", "Express", "NestJS"],
-    tools: ["Git", "Docker", "CI/CD", "Vercel"]
+    generativeAI: ["Multi-agent orchestration", "RAG pipelines", "Prompt engineering", "LLM fine-tuning (LoRA)"],
+    llmStack: ["Python", "FastAPI", "LangChain", "ChromaDB", "Ollama", "PyTorch"],
+    deployment: ["On-premise / private LLM (no cloud APIs)", "Llama 3.3 70B", "Docker", "CI/CD"],
+    alsoShips: ["React", "TypeScript", "Swift (iOS)", "Flutter"]
   },
-  
-  currentFocus: ["iOS Development", "Full-Stack Projects", "Open Source"],
-  learning: ["Advanced Swift", "System Design", "Cloud Architecture"],
-  
+
+  currentFocus: [
+    "Local-first personal AI (EDITH)",
+    "AI compliance automation (ISO virtual auditor)",
+    "Private GenAI for sensitive data"
+  ],
+
+  languages: { french: "native", arabic: "native", english: "fluent" },
+
   contact: {
     portfolio: "https://elyesdarouichportfolio.vercel.app",
+    linkedin: "https://linkedin.com/in/elyes-darouich",
     github: "https://github.com/ElyesD1"
   }
 };
@@ -61,24 +68,25 @@ const developer = {
 
 <div align="center">
 
-### 📱 Mobile Development
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 🧠 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 🌐 Web Development
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### 🔧 Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+### 🌐 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -92,24 +100,53 @@ const developer = {
 ╰─────────────────────────────────────────────────────────────────╯
 ```
 
-### 🔷 **Featured Projects**
-
-> "Building digital experiences that matter, one commit at a time."
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🌐 [Portfolio Website](https://elyesdarouichportflio.vercel.app)
-**JavaScript • React**
+#### 🤖 EDITH — Local AI Companion
+**Python • Swift/SwiftUI • Ollama**
 ```
-└─ Personal portfolio showcasing
-   projects and skills
-└─ Modern, responsive design
+└─ 100% local, persistent AI companion
+   for macOS — no cloud inference, ever
+└─ Always-alive daemon + on-demand LLM
+   cognition lifecycle (event-driven)
+└─ Long-term memory (SQLite), LoRA
+   persona training, resource-aware
+```
+[![Repo](https://img.shields.io/badge/VIEW_CODE-EDITH-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/EDITH)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📋 SMI Virtual Auditor (Talan)
+**Python • Llama 3.3 70B • ChromaDB • FastAPI**
+```
+└─ AI-powered ISO compliance auditor:
+   automated document analysis and
+   gap detection on QMS/ISMS docs
+└─ Full on-premise RAG pipeline —
+   sensitive data never leaves the org
+└─ Adopted as internal demonstrator
+```
+[![Case](https://img.shields.io/badge/END--OF--STUDIES_PROJECT-Talan-06b6d4?style=for-the-badge)](https://elyesdarouichportfolio.vercel.app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 [Portfolio Website](https://elyesdarouichportfolio.vercel.app)
+**React • JavaScript**
+```
+└─ Personal portfolio — projects,
+   credentials, and experience
+└─ i18n (EN/FR), responsive design
 └─ Deployed on Vercel
 ```
 [![Repo](https://img.shields.io/badge/VIEW_CODE-Portfolio-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/Portfolio)
-[![Live](https://img.shields.io/badge/LIVE_DEMO-Vercel-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://elyesdarouichportflio.vercel.app)
+[![Live](https://img.shields.io/badge/LIVE_DEMO-Vercel-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://elyesdarouichportfolio.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -125,78 +162,28 @@ const developer = {
 
 </td>
 </tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🔧 Dialex Backend
-**TypeScript • Node.js**
-```
-└─ RESTful API design
-└─ Express/NestJS architecture
-└─ Database integration
-```
-[![Repo](https://img.shields.io/badge/VIEW_CODE-Dialex--Backend-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/Dialex-Backed)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📦 SquadLink
-**TypeScript • Full-Stack**
-```
-└─ Team collaboration platform
-└─ Real-time features
-└─ Modern tech stack
-```
-[![Repo](https://img.shields.io/badge/VIEW_CODE-SquadLink-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/SquadLink)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🛒 Spareparts Waness
-**JavaScript • E-commerce**
-```
-└─ Spare parts marketplace
-└─ Full shopping experience
-└─ Inventory management
-```
-[![Repo](https://img.shields.io/badge/VIEW_CODE-Spareparts--Waness-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/Spareparts-waness)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📱 Project Management Tool
-**Flutter • Mobile**
-```
-└─ Cross-platform mobile app
-└─ Task & project tracking
-└─ Team collaboration features
-```
-[![Repo](https://img.shields.io/badge/VIEW_CODE-Project--Management-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1/Project-management-tool-mobile-front)
-
-</td>
-</tr>
 </table>
+
+---
+
+## `🎓 Certifications`
+
+```bash
+$ ls ~/credentials/ --verified
+```
+
+| Credential | Issuer | Year | Verify |
+|---|---|---|---|
+| **Generative AI with Diffusion Models** | NVIDIA Deep Learning Institute | 2025 | [🔗 learn.nvidia.com](https://learn.nvidia.com/certificates?id=NBN_yYZrQritFRoiorrdZg) |
+| **Applications of AI for Predictive Maintenance** | NVIDIA Deep Learning Institute | 2025 | [🔗 learn.nvidia.com](https://learn.nvidia.com/certificates?id=DfIs6wnhTa204pXqdLB7hw) |
+| **Hashgraph Developer Course** | The Hashgraph Association | 2025 | 🎓 NFT credential |
+| **AWS Academy — Cloud Foundations** | AWS Academy | — | ☁️ Credly badge |
 
 ---
 
 ## `📊 GitHub Analytics`
 
 <div align="center">
-
-```bash
-╭───────────────────────── SYSTEM STATUS ─────────────────────────╮
-│                                                                  │
-│  ⚡ Productivity    [████████████████████░░] 90%                │
-│  🎯 Code Quality    [███████████████████░░░] 85%                │
-│  🔥 Commitment      [████████████████████░░] 95%                │
-│  📚 Learning Rate   [██████████████████████] 100%               │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ElyesD1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6">
@@ -222,27 +209,18 @@ const developer = {
 
 ```javascript
 const value_proposition = {
-  technical_skills: [
-    "Cross-platform mobile development (iOS, Flutter)",
-    "Full-stack web development (React, Node.js, TypeScript)",
-    "Clean code architecture & design patterns",
-    "RESTful API design & implementation",
-    "Version control & collaborative development"
+  core: [
+    "End-to-end GenAI systems: multi-agent orchestration, RAG pipelines, private LLM deployment",
+    "On-premise AI — companies use generative AI without exposing sensitive data",
+    "Internal assistants, intelligent document search, compliance automation",
+    "Solid software engineering foundation: from architecture to production",
+    "Full-stack delivery: FastAPI backends, React frontends, native mobile"
   ],
-  
-  soft_skills: [
-    "Problem-solving mindset",
-    "Quick learner & adaptable",
-    "Team collaboration",
-    "Project management",
-    "Strong communication"
-  ],
-  
-  achievements: {
-    repositories: 11,
-    years_of_coding: "3+",
-    projects_completed: "10+",
-    languages_mastered: ["Swift", "TypeScript", "JavaScript", "Dart"]
+
+  proven_by: {
+    industry: "ISO compliance virtual auditor built at Talan — retained as internal demonstrator",
+    personal: "EDITH — a fully local, persistent AI companion engineered for macOS",
+    credentials: "NVIDIA DLI certified (Generative AI, Predictive Maintenance AI)"
   }
 };
 ```
@@ -256,11 +234,11 @@ $ cat /dev/status
 ```
 
 ```yaml
-🔍 Looking for: Full-time opportunities | Freelance projects | Collaborations
-📍 Open to: Remote work | Hybrid roles | Relocation
-🎓 Education: Computer Science background
-💼 Experience: Full-stack & Mobile Development
-🌱 Growing in: iOS Development, System Design, Cloud Architecture
+💼 Role: AI Engineer @ Talan — end-of-studies project (ISO compliance virtual auditor)
+🎓 Education: Engineering Degree in Computer Science — ESPRIT, Tunis (2026)
+🔍 Open to: Freelance AI projects (remote) | Full-time opportunities | Collaborations
+🌱 Building: EDITH — local-first personal AI | Private RAG systems
+🗣 Languages: French (native) | Arabic (native) | English (fluent)
 ```
 
 ---
@@ -272,19 +250,19 @@ $ cat /dev/status
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │                                                                │
-│  💼  Open to Full-Time Opportunities                          │
-│  🚀  Available for Freelance Projects                         │
-│  🤝  Interested in Collaborations                             │
-│  📧  Quick to Respond                                         │
+│  🤖  Need GenAI without shipping your data to the cloud?      │
+│  💼  Open to freelance & full-time opportunities              │
+│  🤝  Interested in AI collaborations                          │
 │                                                                │
-│  → Let's build something exceptional together!                │
+│  → Let's build something intelligent together.                │
 │                                                                │
 └────────────────────────────────────────────────────────────────┘
 ```
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elyesdarouichportflio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elyesdarouichportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elyes-darouich)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyesD1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elyes.darouich@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elyes.darouich@esprit.tn)
 
 </div>
 
@@ -295,8 +273,7 @@ $ cat /dev/status
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Code is like humor. When you have to explain it,      ║
-║   it's bad." – Cory House                               ║
+║  "The best AI is the one that respects your data."      ║
 ║                                                          ║
 ║  Thanks for visiting! ⭐ Feel free to star repos        ║
 ║  you find interesting!                                   ║
@@ -306,6 +283,6 @@ $ cat /dev/status
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**© 2025 Elyes Darouich • Built with 💙 and lots of ☕**
+**© 2026 Elyes Darouich • Built with 🧠 and lots of ☕**
 
 </div>
