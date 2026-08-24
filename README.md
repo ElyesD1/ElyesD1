@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-elyesdarouichportfolio.vercel.app-8b5cf6?style=flat-square&labelColor=0d1117)](https://elyesdarouichportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-elyes--darouich-22d3ee?style=flat-square&labelColor=0d1117)](https://linkedin.com/in/elyes-darouich)
-[![Email](https://img.shields.io/badge/EMAIL-elyes.darouich%40esprit.tn-e6edf3?style=flat-square&labelColor=0d1117)](mailto:elyes.darouich@esprit.tn)
+[![Email](https://img.shields.io/badge/EMAIL-elyes.darouich1%40gmail.com-e6edf3?style=flat-square&labelColor=0d1117)](mailto:elyes.darouich1@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ElyesD1&color=8b5cf6&style=flat-square&label=VIEWS)](https://github.com/ElyesD1)
 
 </div>
@@ -170,7 +170,7 @@ document search, compliance automation? That's exactly what I build.
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-8b5cf6?style=flat-square&labelColor=0d1117)](https://elyesdarouichportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-22d3ee?style=flat-square&labelColor=0d1117)](https://linkedin.com/in/elyes-darouich)
-[![Email](https://img.shields.io/badge/EMAIL-WRITE-22c55e?style=flat-square&labelColor=0d1117)](mailto:elyes.darouich@esprit.tn)
+[![Email](https://img.shields.io/badge/EMAIL-WRITE-22c55e?style=flat-square&labelColor=0d1117)](mailto:elyes.darouich1@gmail.com)
 
 <br>
 <sub><samp>DOSSIER CLOSED · © 2026 ELYES DAROUICH · BUILT PRIVATE BY DESIGN</samp></sub>
