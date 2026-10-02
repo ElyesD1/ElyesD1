@@ -31,7 +31,7 @@ below ship from my second account, [@ElyesDarouich](https://github.com/ElyesDaro
 |:--|:--|:--|:--|:--|
 | `SYS·01` | **[EDITH](https://github.com/ElyesD1/EDITH)** | Persistent, 100% local AI companion for macOS — an always-alive daemon that wakes the model only when cognition is needed | Python · Swift/SwiftUI · Ollama · LoRA | `PRIVATE BUILD` |
 | `SYS·02` | **SMI Virtual Auditor** | AI auditor for ISO 9001 / 14001 / 27001 — clause-by-clause compliance verdicts with cited evidence, built at Talan | Llama 3.3 70B · RAG · FastAPI · React | `CLIENT — TALAN` |
-| `SYS·03` | **[SentinelAI](https://github.com/ElyesD1/SentinelAI)** | 7-agent LangGraph pipeline analyzing geopolitical risk for Gold, Oil, S&P 500, BTC & ETH — full report in under 30 s | LangGraph · Qdrant · GARCH · Monte Carlo | `OPEN SOURCE` |
+| `SYS·03` | **SentinelAI** | 7-agent LangGraph pipeline analyzing geopolitical risk for Gold, Oil, S&P 500, BTC & ETH — full report in under 30 s | LangGraph · Qdrant · GARCH · Monte Carlo | `PRIVATE BUILD` |
 | `SYS·04` | **ScribeAI** | Meeting intelligence — real-time diarized transcription (EN · FR · AR · Tunisian) into structured docs and architecture diagrams | ElevenLabs Scribe · ChromaDB · Mermaid | `PRIVATE BUILD` |
 | `SYS·05` | **[Claude Hive](https://github.com/ElyesDarouich/claude-hive)** | Coordination layer letting multiple Claude Code agents share live awareness, avoid file conflicts, and delegate tasks | MCP · Supabase Realtime · Python | `OPEN SOURCE` |
 | `SYS·06` | **[Agentic Valley](https://github.com/ElyesDarouich/Agentic-Valley)** | VSCode extension rendering multi-agent orchestration as a living pixel-art office — every delegation visible | Claude Agent SDK · TypeScript | `OPEN SOURCE` |
@@ -55,20 +55,20 @@ below ship from my second account, [@ElyesDarouich](https://github.com/ElyesDaro
 **`SYS·03` SentinelAI — Geopolitical Market Intelligence**
 - 7-agent pipeline: routing → geo intel → sentiment → per-asset analysis → quant/risk → critic → synthesis
 - Monte Carlo simulation and GARCH volatility modeling; semantic news search over GDELT + FRED via Qdrant
-- $0 LLM cost through free-tier rotation across Groq, OpenRouter & Together.ai; JWT + RBAC, reCAPTCHA v3, WAF hardening
+- Rate-limit handling on Groq (429 back-off honoring Retry-After); JWT + RBAC, reCAPTCHA v3, WAF hardening
 
 **`SYS·04` ScribeAI — Meeting Intelligence**
 - Real-time transcription with speaker diarization across English, French, Arabic, and Tunisian dialect — including code-switching and RTL PDF rendering
 - 9-step AI pipeline: requirements extraction, ambiguity detection, auto-generated Mermaid architecture diagrams with conversational refinement
-- React → Flask WebSocket + FastAPI + Ollama; zero cloud inference cost
+- React → Flask WebSocket + FastAPI + Ollama; LLM inference stays local, transcription via the ElevenLabs Scribe API
 
 **`SYS·05` Claude Hive — Multi-Agent Coordination**
 - Per-machine daemon streams scrubbed tool-call events over a private Supabase Realtime channel — tokens and secrets redacted before transmission, never code or model output
-- Eight MCP tools expose rooms, messaging, and formal task delegation (accept / reject / complete) inside any Claude Code session
+- Seven MCP tools expose rooms, messaging, and formal task delegation (accept / reject / complete) inside any Claude Code session
 - VSCode observer dashboard with live event feed; supervised by launchd / systemd
 
 **`SYS·06` Agentic Valley — Orchestration Visualizer**
-- Seven specialized agents (architect, researcher, code-generator, reviewer, tester…) each in its own Claude Agent SDK session, orchestrated by a main agent via the Task tool
+- A main agent plus six specialized agents (researcher, documentation, code-generator, code-reviewer, tester, architect), each in its own Claude Agent SDK session; the main agent's Task-tool delegations are animated as dispatch cards
 - State-driven sprite animation (idle / thinking / tool-use / error) with dispatch cards and particle bursts — coordination made perceptually observable
 - Token-by-token streaming chat per agent inside a VSCode webview
 
@@ -138,7 +138,7 @@ below ship from my second account, [@ElyesDarouich](https://github.com/ElyesDaro
 | `CRED·01` | Generative AI with Diffusion Models | NVIDIA Deep Learning Institute | 2025 | [`VERIFY ↗`](https://learn.nvidia.com/certificates?id=NBN_yYZrQritFRoiorrdZg) |
 | `CRED·02` | Applications of AI for Predictive Maintenance | NVIDIA Deep Learning Institute | 2025 | [`VERIFY ↗`](https://learn.nvidia.com/certificates?id=DfIs6wnhTa204pXqdLB7hw) |
 | `CRED·03` | Hashgraph Developer Course | The Hashgraph Association | 2025 | `NFT CREDENTIAL` |
-| `CRED·04` | AWS Academy — Cloud Foundations | AWS Academy | 2024 | `CREDLY BADGE` |
+| `CRED·04` | AWS Academy — Cloud Foundations | AWS Academy | 2025 | `CREDLY BADGE` |
 
 <br>
 
