@@ -20,7 +20,7 @@ persistent AI companion that never sends a byte to the cloud. Multi-agent orches
 pipelines, private LLM deployment: the common thread is generative AI that doesn't require
 handing your data to someone else.
 
-Engineering degree at **ESPRIT** (2026) · French & Arabic native, English fluent · Some systems
+Engineering degree at **ESPRIT** (2026) · EU citizen, open to relocation · French & Arabic native, English fluent · Some systems
 below ship from my second account, [@ElyesDarouich](https://github.com/ElyesDarouich).
 
 <br>
@@ -29,7 +29,7 @@ below ship from my second account, [@ElyesDarouich](https://github.com/ElyesDaro
 
 | REF | SYSTEM | FUNCTION | STACK | ACCESS |
 |:--|:--|:--|:--|:--|
-| `SYS·01` | **[EDITH](https://github.com/ElyesD1/EDITH)** | Persistent, 100% local AI companion for macOS — an always-alive daemon that wakes the model only when cognition is needed | Python · Swift/SwiftUI · Ollama · LoRA | `PRIVATE BUILD` |
+| `SYS·01` | **[EDITH](https://github.com/ElyesD1/EDITH)** | Persistent, 100% local AI companion for macOS — an always-alive daemon that wakes the model only when cognition is needed · [misalignment study write-up ↗](https://claude.ai/artifact/7TTKjre9CBnbJv1ziY4zhn) | Python · Swift/SwiftUI · Ollama · LoRA | `PRIVATE BUILD` |
 | `SYS·02` | **SMI Virtual Auditor** | AI auditor for ISO 9001 / 14001 / 27001 — clause-by-clause compliance verdicts with cited evidence, built at Talan | Llama 3.3 70B · RAG · FastAPI · React | `CLIENT — TALAN` |
 | `SYS·03` | **SentinelAI** | 7-agent LangGraph pipeline analyzing geopolitical risk for Gold, Oil, S&P 500, BTC & ETH — full report in under 30 s | LangGraph · Qdrant · GARCH · Monte Carlo | `PRIVATE BUILD` |
 | `SYS·04` | **ScribeAI** | Meeting intelligence — real-time diarized transcription (EN · FR · AR · Tunisian) into structured docs and architecture diagrams | ElevenLabs Scribe · ChromaDB · Mermaid | `PRIVATE BUILD` |
@@ -43,7 +43,9 @@ below ship from my second account, [@ElyesDarouich](https://github.com/ElyesDaro
 
 **`SYS·01` EDITH — Local AI Companion**
 - Always-alive Python daemon handles state, memory, and event prioritization; the LLM (via Ollama) wakes only when cognition is required, then sleeps — idle footprint under ~1 GB
-- Long-term memory in SQLite; personality, rules, and ethics defined in user-owned persona files with trained LoRA adapters — not vendor defaults
+- Long-term memory in SQLite; personality, rules, and ethics defined in user-owned persona files — not vendor defaults
+- LoRA fine-tuning pipeline on Apple MLX — 0.06% trainable parameters, held-out val loss 3.89 → 2.73
+- Independent replication of Anthropic's agentic-misalignment methodology — 24 runs with pre-registered scoring, every scorer flag checked against the full transcript · [read the write-up ↗](https://claude.ai/artifact/7TTKjre9CBnbJv1ziY4zhn)
 - Swift/SwiftUI menu-bar app provides presence, HUD, global hotkey, and perception sensors
 
 **`SYS·02` SMI Virtual Auditor — AI ISO Compliance Auditor (Talan, end-of-studies project)**
@@ -91,7 +93,7 @@ below ship from my second account, [@ElyesDarouich](https://github.com/ElyesDaro
 | `ARC·04` | **Riftpedia** | iOS League of Legends match tracker — SwiftUI, MapKit Runeterra map, Riot API | `PRIVATE BUILD` |
 | `ARC·05` | **[SquadLink](https://github.com/ElyesD1/SquadLink)** | LoL team finder — Socket.io matchmaking, Riot API, Discord bot | `OPEN SOURCE` |
 | `ARC·06` | **[Dialex](https://github.com/ElyesD1/Dialex-Front-IOS)** | Native iOS app ([backend](https://github.com/ElyesD1/Dialex-Backed)) — SwiftUI + NestJS | `OPEN SOURCE` |
-| `ARC·07` | **[Nomadly](https://github.com/ElyesD1/Nomadly-Front)** | Travel platform — Flutter front, [NestJS back](https://github.com/ElyesD1/Nomadly-back) | `OPEN SOURCE` |
+| `ARC·07` | **[Nomadly](https://github.com/Tayaa01/Nomadly)** | Travel platform — Flutter front, NestJS back (academic project) | `OPEN SOURCE` |
 
 </details>
 
